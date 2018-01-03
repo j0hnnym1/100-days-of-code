@@ -1,10 +1,20 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 2, 2017
+### Day 0: January 2, 2017
 
 **Today's Progress**: Initialized the "Weather app" project. The goal is to make a local weather app from FreeCodeCamp challenge
 
 **Thoughts:** I have to better understand GET/POST requests.
+
+**Link to work:** [Weather App](https://github.com/j0hnnym1/Projects/tree/master/Local%20Weather%20App)
+
+### Day 1: January 3, 2017
+
+**Today's Progress**: Added html elements.
+Fixed the weather API. It now successfully retrieves the json from api.
+Changed font-family.
+
+**Thoughts:** I know have a better understanding of the GET request. I need to practice more in the future.
 
 **Link to work:** [Weather App](https://github.com/j0hnnym1/Projects/tree/master/Local%20Weather%20App)
 
