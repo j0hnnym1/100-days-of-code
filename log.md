@@ -18,3 +18,12 @@ Changed font-family.
 
 **Link to work:** [Weather App](https://github.com/j0hnnym1/Projects/tree/master/Local%20Weather%20App)
 
+### Day 2: January 4, 2017
+
+**Today's Progress**: Added animated css icons and worked with the weather API a little more.
+
+**Thoughts:** I have a few ideas that I need to implement soon to enchance the project.
+CSS can be complicated and fun.
+
+**Link to work:** [Weather App](https://github.com/j0hnnym1/Projects/tree/master/Local%20Weather%20App)
+
