@@ -27,3 +27,11 @@ CSS can be complicated and fun.
 
 **Link to work:** [Weather App](https://github.com/j0hnnym1/Projects/tree/master/Local%20Weather%20App)
 
+### Day 3: January 5, 2017
+
+**Today's Progress**: Almost done with the Weather App need to fix a few bugs.
+
+**Thoughts:** During this challenge I understood a lot on how APIs work and working with GET requests was really fun.
+
+**Link to work:** [Weather App](https://github.com/j0hnnym1/Projects/tree/master/Local%20Weather%20App)
+
