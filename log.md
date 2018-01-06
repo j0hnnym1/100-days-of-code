@@ -41,5 +41,5 @@ CSS can be complicated and fun.
 
 **Thoughts:** I need to make a professional looking portfolio site.
 
-**Link to work:** [Weather App](https://github.com/j0hnnym1/Projects/tree/master/Local%20Weather%20App)
+**Link to work:** [Portfolio site](https://github.com/j0hnnym1/Projects/tree/master/Portfolio)
 
