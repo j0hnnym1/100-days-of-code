@@ -35,3 +35,11 @@ CSS can be complicated and fun.
 
 **Link to work:** [Weather App](https://github.com/j0hnnym1/Projects/tree/master/Local%20Weather%20App)
 
+### Day 4: January 6, 2017
+
+**Today's Progress**: Initialized new project. A portfolio site that will go towards FreeCodeCamp Challenge as well as a personal favor.
+
+**Thoughts:** I need to make a professional looking portfolio site.
+
+**Link to work:** [Weather App](https://github.com/j0hnnym1/Projects/tree/master/Local%20Weather%20App)
+
