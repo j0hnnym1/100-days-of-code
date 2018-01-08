@@ -51,3 +51,10 @@ CSS can be complicated and fun.
 
 **Link to work:** [Portfolio site](https://github.com/j0hnnym1/Projects/tree/master/Portfolio)
 
+### Day 6: January 8, 2017
+
+**Today's Progress**: The Portfolio webpage for the FreeCodeCamp Challenge is almost complete. Worked on polishing a few elements and ideas.
+
+**Thoughts:** I wish to finish the portfolio webpage and make a few animations. It is my weak spot right now and working with js will be fun
+
+**Link to work:** [Portfolio site](https://github.com/j0hnnym1/Projects/tree/master/Portfolio)
