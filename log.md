@@ -43,3 +43,11 @@ CSS can be complicated and fun.
 
 **Link to work:** [Portfolio site](https://github.com/j0hnnym1/Projects/tree/master/Portfolio)
 
+### Day 5: January 7, 2017
+
+**Today's Progress**: Continued working on the portfolio webpage for the FreeCodeCamp Challenge. Worked mainly on CSS.
+
+**Thoughts:** CSS is a pain but I love it when I manage to got through a challenge. 
+
+**Link to work:** [Portfolio site](https://github.com/j0hnnym1/Projects/tree/master/Portfolio)
+
