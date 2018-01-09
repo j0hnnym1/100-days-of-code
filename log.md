@@ -58,3 +58,14 @@ CSS can be complicated and fun.
 **Thoughts:** I wish to finish the portfolio webpage and make a few animations. It is my weak spot right now and working with js will be fun
 
 **Link to work:** [Portfolio site](https://github.com/j0hnnym1/Projects/tree/master/Portfolio)
+
+### Day 7: January 9, 2017
+
+**Today's Progress**: I worked less that I wanted on the Portfolio Webpage because of a personal coding project on xpath parsing.
+
+**Thoughts:** I learned a lot around xpath parser. Very handy and easy to use tool for webpage scraping
+
+**Link to work:** [Portfolio site](https://github.com/j0hnnym1/Projects/tree/master/Portfolio)
+                  [Xpath parser](http://lxml.de/xpathxslt.html)
+
+
