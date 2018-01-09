@@ -66,6 +66,6 @@ CSS can be complicated and fun.
 **Thoughts:** I learned a lot around xpath parser. Very handy and easy to use tool for webpage scraping
 
 **Link to work:** [Portfolio site](https://github.com/j0hnnym1/Projects/tree/master/Portfolio)
-                  [Xpath parser](http://lxml.de/xpathxslt.html)
+[Xpath parser](http://lxml.de/xpathxslt.html)
 
 
