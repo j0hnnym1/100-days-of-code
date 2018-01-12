@@ -68,4 +68,31 @@ CSS can be complicated and fun.
 **Link to work:** [Portfolio site](https://github.com/j0hnnym1/Projects/tree/master/Portfolio)
 [Xpath parser](http://lxml.de/xpathxslt.html)
 
+### Day 8: January 10, 2017
+
+**Today's Progress**: Worked on the Portfolio Website added more webpages and a few pictures
+
+**Thoughts:** Portfolio website is coming along nicely.
+
+**Link to work:** [Portfolio site](https://github.com/j0hnnym1/Projects/tree/master/Portfolio)
+
+### Day 9: January 11, 2017
+
+**Today's Progress**: Final touches to the Portfolio Website. Initiated the next Project. Wikipedia Viewer. I will use react for this.
+
+**Thoughts:** The portfolio Website isn't my personal. I worked on my sister's portfolio. Next is mine soon.
+
+**Link to work:** [Portfolio site](https://github.com/j0hnnym1/Projects/tree/master/Portfolio)
+[Wikipedia Viewer](https://github.com/j0hnnym1/Projects/tree/master/Wiki-viewer)
+
+### Day 10: January 12, 2017
+
+**Today's Progress**: I started working on Wiki-Viewer project. It is the Wikipedia Viewer for the FreeCodeCamp Challenge.
+
+**Thoughts:** I've read react in the past but I don't remember a lot. I figured that the Wikipedia Viewer will be a great chance for me to relearn react. It is gonna be a tough one
+
+**Link to work:** [Wikipedia Viewer](https://github.com/j0hnnym1/Projects/tree/master/Wiki-viewer)
+
+
+
 
