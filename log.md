@@ -93,6 +93,22 @@ CSS can be complicated and fun.
 
 **Link to work:** [Wikipedia Viewer](https://github.com/j0hnnym1/Projects/tree/master/Wiki-viewer)
 
+### Day 11: January 13, 2017
+
+**Today's Progress**: Small changes to Wikipedia Viewer Challenge code. Reading a lot on react.
+
+**Thoughts:** React is tougher than I thought and I am doing a lot of reading and less coding.
+
+**Link to work:** [Wikipedia Viewer](https://github.com/j0hnnym1/Projects/tree/master/Wiki-viewer)
+
+### Day 12: January 14, 2017
+
+**Today's Progress**: Starting working with the API from wiki. Late night commit.
+
+**Thoughts:** React is tougher than I thought (x2). I can't figure out how to make the API requests. Working on it
+
+**Link to work:** [Wikipedia Viewer](https://github.com/j0hnnym1/Projects/tree/master/Wiki-viewer)
+
 
 
 
